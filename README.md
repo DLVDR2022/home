@@ -1,2 +1,2 @@
-# dlpr2020
-[Home Page](https://dlpr2020.github.io/home/index.html )
+# DLVDR2022
+[Home Page](https://github.com/dlpr2022/home)
